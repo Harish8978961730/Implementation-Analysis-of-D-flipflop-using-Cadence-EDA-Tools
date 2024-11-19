@@ -47,7 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
+![image](https://github.com/user-attachments/assets/bce1c865-a513-4d5b-8250-6e30519e3e34)
+
 
 
 
@@ -65,8 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
+![image](https://github.com/user-attachments/assets/f454756b-a6b1-47bf-84b0-1b12c68a6016)
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
 
 
 iv)	Creating the new test cell view
@@ -79,7 +80,7 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![image](https://github.com/user-attachments/assets/d265eaee-5dfe-4a25-a630-45a3c650f2d1)
 
 
  
@@ -94,14 +95,19 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
+![image](https://github.com/user-attachments/assets/3ed6f37f-7ca9-4621-a580-35de15aa4740)
+
 
 
 For Transient Analysis Settings and Output
- 
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+
+![image](https://github.com/user-attachments/assets/97366a2e-4350-4eb4-81da-ec3f1df6f008)
+ 
+![image](https://github.com/user-attachments/assets/42b737c2-35d1-43c4-ae19-8151fcc39bf7)
+
+
+
 
 
 Results:
